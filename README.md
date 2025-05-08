@@ -10,6 +10,7 @@ Hướng dẫn chi tiết từng bước để tạo một bot Telegram đơn gi
 4.  BotFather sẽ yêu cầu bạn đặt tên cho bot của mình. Hãy nhập tên bạn muốn (ví dụ: "Thông báo Biển Số Xe").
 5.  Tiếp theo, bạn cần chọn một username cho bot. Username phải kết thúc bằng từ "bot" hoặc "Bot" (ví dụ: "ThongBaoBienSoXeBot").
 6.  Sau khi tạo thành công, BotFather sẽ cung cấp cho bạn **API token** của bot. Hãy lưu lại token này cẩn thận, bạn sẽ cần nó ở các bước sau.
+7.  Mở Bot vừa tạo, nhấn vào nút Start hoặc Bắt đầu
 
 ![Tạo bot Telegram bằng BotFather](https://github.com/user-attachments/assets/00aa47d0-92ed-4622-a782-eb6353d2baf1)
 
