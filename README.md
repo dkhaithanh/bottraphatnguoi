@@ -1,7 +1,7 @@
-**Bước 1: Tạo bot telegram bằng Bot Father: @BotFather**
+## **Bước 1: Tạo bot telegram bằng Bot Father: @BotFather**
 ![image](https://github.com/user-attachments/assets/00aa47d0-92ed-4622-a782-eb6353d2baf1)
 
-**Bước 2: Nhắn tin cho bot Get My ID để lấy ID người dùng: @getmyid_bot**
+## **Bước 2: Nhắn tin cho bot Get My ID để lấy ID người dùng: @getmyid_bot**
 ![image](https://github.com/user-attachments/assets/151d0bec-393c-4217-aaff-afcb61ddc295)
 
 **Bước 3: Tạo một Google Sheet mới và tạo App Scrip: sheet.new**
