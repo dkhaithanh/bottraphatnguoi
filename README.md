@@ -28,3 +28,6 @@ Kiểm tra phần log xem đã chạy hoàn hảo chưa:
 ![image](https://github.com/user-attachments/assets/b2fa49b6-8bb2-468b-be7f-e7881c5b8847)
 Set khoảng thời gian, ở đây mình muốn thông báo vào khoảng 7-8h sáng hàng ngày nên mình chọn như ảnh
 ![image](https://github.com/user-attachments/assets/3179414e-5b03-4120-ba35-b4032bc3347b)
+
+**Và**
+![image](https://github.com/user-attachments/assets/0b8b7134-1584-43d2-b002-576140fa74ca)
